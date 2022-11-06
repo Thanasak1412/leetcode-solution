@@ -42,7 +42,7 @@
         idxMaxPalindrome + maxPalindrome
       )
       .split("#")
-      .join("").length;
+      .join("");
   };
 
   //   generate new string for check palindrome
